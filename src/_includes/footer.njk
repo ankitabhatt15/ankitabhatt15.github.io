@@ -1,0 +1,10 @@
+<footer>
+  <p class="social-links">
+    {% if meta.social or meta.author.email %}
+    {% if meta.social.twitter %}<a href="{{ meta.social.twitter }}"><span class="fas fa-twitter-square"></span></a>{% endif %}
+    {% if meta.social.github %}<a href="{{ meta.social.github }}"><span class="fab fa-github-square"></span></a>{% endif %}
+    {% if meta.social.linkedin %}<a href="{{ meta.social.linkedin }}"><span class="fab fa-linkedin-square"></span></a>{% endif %}
+    {% if meta.author.email %}<a href="mailto:{{ meta.author.email }}"><span class="fab fa-envelope-square"></span></a>{% endif %}
+    {% endif %}
+  </p>
+</footer>

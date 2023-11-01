@@ -1,0 +1,16 @@
+{
+  "title": "Hi, I'm Ankita Bhatt",
+  "subtitle": "Shaping Products, Empowering Teams, Delivering Value",
+  "url": "https://eleventufte.netlify.app",
+  "feedUrl": "/feed.xml",
+  "lang": "en",
+  "author": {
+    "name": "Ankita Bhatt",
+    "email": "ankitabhatt1511@gmail.com"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Ankita_bhatt95",
+    "github": "https://github.com/nerdhaus/eleventufte",
+    "linkedin": "https://www.linkedin.com/in/ankitabhatt95/"
+  }
+}

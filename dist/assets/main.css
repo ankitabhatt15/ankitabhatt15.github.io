@@ -1,0 +1,34 @@
+.fab, .fas {
+  font-family: fontawesome !important;
+  font-size: 1.2em;
+  text-decoration: none;
+  color: #666;
+}
+
+.fab:hover, .fas:hover {
+  color: #111;
+}
+
+.social-links a:link {
+  background: none;
+  background-repeat: no-repeat;
+}
+
+.circular-cropped {
+  border-radius: 50%;
+  object-fit: cover; /* This will make sure to cover the area with the image without stretching it */
+  width: 400px; /* Or whatever size you want */
+  height: 400px; /* Should be the same as width to make it a circle */
+  overflow: hidden; /* Ensures the image doesn't spill outside the border-radius */
+  transform: scale(0.7);
+}
+
+.side-photo {
+  float: right;
+  clear: right;
+  margin-right: 10%;
+  margin-top: 0;
+  margin-bottom: 0;
+  vertical-align: baseline;
+  position: relative;
+}

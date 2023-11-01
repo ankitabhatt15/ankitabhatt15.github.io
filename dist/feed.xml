@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hi, I’m Ankita Bhatt</title>
+  <subtitle>Shaping Products, Empowering Teams, Delivering Value</subtitle>
+  <link href="https://eleventufte.netlify.app/feed.xml" rel="self"/>
+  <link href="https://eleventufte.netlify.app"/>
+  <updated>2020-11-24T00:00:00Z</updated>
+  <id>https://eleventufte.netlify.app</id>
+  <author>
+    <name>Ankita Bhatt</name>
+    <email>ankitabhatt1511@gmail.com</email>
+  </author>
+  
+  <entry>
+    <title>undefined</title>
+    <link href="https://eleventufte.netlify.app/archive/an-introductory-post/"/>
+    <updated>2020-11-24T00:00:00Z</updated>
+    <id>https://eleventufte.netlify.app/archive/an-introductory-post/</id>
+    <content type="html">&lt;section&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;p&gt;Sodales neque sodales ut etiam sit amet nisl purus. Eu scelerisque felis imperdiet proin fermentum leo. Est lorem ipsum dolor sit amet consectetur. Quam vulputate dignissim suspendisse in est ante in nibh. Sagittis eu volutpat odio facilisis mauris sit. Vel quam elementum pulvinar etiam non. Nisl vel pretium lectus quam id leo in. Ultricies tristique nulla aliquet enim tortor at auctor.&lt;/p&gt;
+&lt;p&gt;Sollicitudin ac orci phasellus egestas tellus rutrum. Morbi tempus iaculis urna id volutpat. Mauris augue neque gravida in fermentum et sollicitudin ac. Odio aenean sed adipiscing diam donec adipiscing tristique risus. Eu sem integer vitae justo eget magna fermentum. Faucibus nisl tincidunt eget nullam non nisi. Tortor at risus viverra adipiscing. Tristique nulla aliquet enim tortor at auctor. Hendrerit dolor magna eget est. Pretium lectus quam id leo in vitae turpis. Arcu dui vivamus arcu felis bibendum ut tristique et egestas.&lt;/p&gt;
+&lt;p&gt;Iaculis at erat pellentesque adipiscing commodo elit at imperdiet. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Auctor urna nunc id cursus metus aliquam eleifend. Faucibus in ornare quam viverra orci sagittis eu volutpat. Etiam tempor orci eu lobortis. At urna condimentum mattis pellentesque id nibh tortor. Sed libero enim sed faucibus turpis in eu mi. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare. Condimentum id venenatis a condimentum vitae. Dignissim cras tincidunt lobortis feugiat.&lt;/p&gt;
+&lt;p&gt;Venenatis tellus in metus vulputate eu. Amet cursus sit amet dictum sit amet justo donec enim. Amet consectetur adipiscing elit duis tristique sollicitudin nibh sit amet. Nibh tellus molestie nunc non blandit.&lt;/p&gt;
+&lt;/section&gt;</content>
+  </entry>
+  
+  <entry>
+    <title>undefined</title>
+    <link href="https://eleventufte.netlify.app/archive/happy-tuftegiving/"/>
+    <updated>2020-11-24T00:00:00Z</updated>
+    <id>https://eleventufte.netlify.app/archive/happy-tuftegiving/</id>
+    <content type="html">&lt;section&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;p&gt;&lt;label for=&quot;md-venenatis-tellus-in&quot; class=&quot;margin-toggle &quot;&gt;&amp;#8853;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;md-venenatis-tellus-in&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;Venenatis tellus in metus vulputate eu. Amet cursus sit amet dictum sit amet justo donec enim. Amet consectetur adipiscing elit duis tristique sollicitudin nibh sit amet. Nibh tellus molestie nunc non blandit.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Sodales neque sodales ut etiam sit amet nisl purus. Eu scelerisque felis imperdiet proin fermentum leo. Est lorem ipsum dolor sit amet consectetur. Quam vulputate dignissim suspendisse in est ante in nibh. Sagittis eu volutpat odio facilisis mauris sit. Vel quam elementum pulvinar etiam non. Nisl vel pretium lectus quam id leo in. Ultricies tristique nulla aliquet enim tortor at auctor.&lt;/p&gt;
+&lt;p&gt;&lt;label for=&quot;md-less-than-img-src&quot; class=&quot;margin-toggle &quot;&gt;&amp;#8853;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;md-less-than-img-src&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;img src=&quot;https://placeimg.com/400/200/tech/grayscale&quot; alt=&quot;Lorem ipsum dolor sit amet&quot; /&gt; &lt;/span&gt; Sollicitudin ac orci phasellus egestas tellus rutrum. Morbi tempus iaculis urna id volutpat. Mauris augue neque gravida in fermentum et sollicitudin ac. Odio aenean sed adipiscing diam donec adipiscing tristique risus. Eu sem integer vitae justo eget magna fermentum. Faucibus nisl tincidunt eget nullam non nisi. Tortor at risus viverra adipiscing. Tristique nulla aliquet enim tortor at auctor. Hendrerit dolor magna eget est. Pretium lectus quam id leo in vitae turpis. Arcu dui vivamus arcu felis bibendum ut tristique et egestas.&lt;/p&gt;
+&lt;p&gt;Iaculis at erat pellentesque adipiscing commodo elit at imperdiet. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Auctor urna nunc id cursus metus aliquam eleifend. Faucibus in ornare quam viverra orci sagittis eu volutpat. Etiam tempor orci eu lobortis. At urna condimentum mattis pellentesque id nibh tortor. Sed libero enim sed faucibus turpis in eu mi. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare. Condimentum id venenatis a condimentum vitae. Dignissim cras tincidunt lobortis feugiat.&lt;/p&gt;
+&lt;p&gt;Venenatis tellus in metus vulputate eu. Amet cursus sit amet dictum sit amet justo donec enim. Amet consectetur adipiscing elit duis tristique sollicitudin nibh sit amet. Nibh tellus molestie nunc non blandit.&lt;/p&gt;
+&lt;/section&gt;</content>
+  </entry>
+</feed>

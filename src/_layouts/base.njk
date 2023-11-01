@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="{{ meta.lang }}">
+  <head>
+		{% include "head.njk" %}
+  </head>
+  <body>
+		<article>
+		<img src="../assets/me.png" alt="Photo of me" class="side-photo circular-cropped" />
+		<h1>{{ title | markdownInline | safe }}</h1>
+		{% if subtitle %}<p class="subtitle">{{ subtitle | markdownInline | safe }}</p>{% endif %}
+				{{ content | safe }}
+		</article>
+		{% include "footer.njk" %}
+  </body>
+</html>
